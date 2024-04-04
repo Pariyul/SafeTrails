@@ -12,3 +12,9 @@ TechStack:
 - FireBase
 - Google Maps API
 - Flutter Framework
+
+Made By: Team Directrix
+- Pariyul Jain
+- Palak Jaiswal
+- Khushi Vishwakarma
+- Mukund Kukreja
